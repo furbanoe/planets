@@ -1,4 +1,9 @@
 
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
+<<<<<<< HEAD
 We added a different line in the other copy
+=======
+But the Mummy will appreciate the lack of humanity
+This line added to Urbanos copy
+>>>>>>> f428b8e9effea7435c1db25113be279b1b6c73d0
